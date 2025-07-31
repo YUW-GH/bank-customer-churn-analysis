@@ -5,7 +5,6 @@
 ## Project Overview
 
 This project presents a **Bank Customer Churn Dashboard** created using **Tableau** and **Python** to analyze and visualize factors contributing to customer churn in a bank. The dashboard is designed to help business stakeholders quickly identify patterns and trends in customer behavior, especially those leading to churn. 
-(Analyzes feature importance using Random Forest and correlation methods to identify the most impactful variables contributing to customer churn.
 
 [Bank Customer Churn Dashboard on Tableau Public]([https://public.tableau.com/app/profile/yu.wu1970/viz/BankCustomerChurnDashboard_U/Dashboard1]
 
