@@ -2,11 +2,11 @@
 
 ![Dashboard Preview](./Preview_Bank%20Customer%20Churn%20Dashboard.png)
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents a **Bank Customer Churn Dashboard** created using **Tableau** to analyze and visualize factors contributing to customer churn in a bank. The dashboard is designed to help business stakeholders quickly identify patterns and trends in customer behavior, especially those leading to churn.
 
-👉 [Bank Customer Churn Dashboard on Tableau Public]([https://public.tableau.com/app/profile/yu.wu1970/viz/BankCustomerChurnDashboard_U/Dashboard1]
+[Bank Customer Churn Dashboard on Tableau Public]([https://public.tableau.com/app/profile/yu.wu1970/viz/BankCustomerChurnDashboard_U/Dashboard1]
 
 It includes:
 - Overall churn rate
@@ -16,7 +16,7 @@ It includes:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - **Churn Rate**: 20.4% of customers have churned.
 - **Age** are the most influential features for churn.
@@ -25,7 +25,7 @@ It includes:
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File Name                                    | Description                                           |
 |---------------------------------------------|-------------------------------------------------------|
@@ -35,7 +35,7 @@ It includes:
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - **Tableau**: For data visualization and dashboard creation
 - **Python (Jupyter Notebook)**: For churn analysis and feature importance using machine learning
@@ -43,7 +43,7 @@ It includes:
 
 ---
 
-## 🔍 How to Use
+## How to Use
 
 1. Open the Tableau workbook (`.twbx`) using Tableau Desktop or Tableau Public.
 2. Interact with the filters (Gender, Geography, Age, etc.) to explore churn patterns.
@@ -51,7 +51,7 @@ It includes:
 
 ---
 
-## 📌 Use Cases
+## Use Cases
 
 - Identify at-risk customers and tailor retention strategies.
 - Segment customers by demographic and financial behavior.
@@ -59,7 +59,7 @@ It includes:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Created by YU WU 
 GitHub: https://github.com/YUW-GH/bank-customer-churn-analysis
