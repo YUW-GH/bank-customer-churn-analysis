@@ -19,8 +19,8 @@ It includes:
 ## 🧠 Key Insights
 
 - **Churn Rate**: 20.4% of customers have churned.
-- **Age** and **Number of Products** are the most influential features for churn.
-- Younger customers and those with fewer products are more likely to churn.
+- **Age** are the most influential features for churn.
+- Customers aged 35 to 45 have a higher likelihood of churn.
 - Customers in certain geographies (e.g., Germany) exhibit higher churn rates.
 - Customers with lower AUM are more prone to churn.
 
