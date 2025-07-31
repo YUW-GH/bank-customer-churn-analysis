@@ -22,7 +22,6 @@ It includes:
 - **Age** are the most influential features for churn.
 - Customers aged 35 to 45 have a higher likelihood of churn.
 - Customers in certain geographies (e.g., Germany) exhibit higher churn rates.
-- Customers with lower AUM are more prone to churn.
 
 ---
 
